@@ -5,7 +5,7 @@
         <img src="../assets/logo.png" />
       </a>
 
-      <b-navbar-brand href="/">Crear usuarios</b-navbar-brand>
+      <b-navbar-brand class="mx-auto">Crear usuarios</b-navbar-brand>
     </b-navbar>
   </div>
 </template>
